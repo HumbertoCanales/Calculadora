@@ -83,6 +83,7 @@
             android:orientation="horizontal">
             <Button
             android:id="@+id/DEL"
+            android:onClick="borrar"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -90,6 +91,7 @@
             </Button>
             <Button
                 android:id="@+id/CE"
+                android:onClick="borrar"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -97,6 +99,7 @@
             </Button>
             <Button
                 android:id="@+id/C"
+                android:onClick="borrar"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -149,6 +152,7 @@
             </Button>
             <Button
                 android:id="@+id/DIV"
+                android:onClick="operador"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -194,6 +198,7 @@
             </Button>
             <Button
                 android:id="@+id/MP"
+                android:onClick="operador"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -239,6 +244,7 @@
             </Button>
             <Button
                 android:id="@+id/m"
+                android:onClick="operador"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -246,6 +252,7 @@
             </Button>
             <Button
                 android:id="@+id/EQ"
+                android:onClick="obtenerRes"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
