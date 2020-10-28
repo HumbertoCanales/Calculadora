@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="MC">MC</string>
+    <string name="MR">MR</string>
+    <string name="MS">MS</string>
+    <string name="Mp">M+</string>
+    <string name="Mm">M-</string>
+    <string name="DEL">←</string>
+    <string name="CE">CE</string>
+    <string name="C">C</string>
+    <string name="pm">±</string>
+    <string name="SQR">√</string>
+    <string name="DIV">/</string>
+    <string name="MP">*</string>
+    <string name="p">+</string>
+    <string name="m">-</string>
+    <string name="EQ">=</string>
+    <string name="PC">%</string>
+    <string name="PNT">,</string>
+    <string name="X">1/x</string>
+    <string name="N1">1</string>
+    <string name="N2">2</string>
+    <string name="N3">3</string>
+    <string name="N4">4</string>
+    <string name="N5">5</string>
+    <string name="N6">6</string>
+    <string name="N7">7</string>
+    <string name="N8">8</string>
+    <string name="N9">9</string>
+    <string name="N0">0</string>
+</resources>
